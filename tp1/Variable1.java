@@ -4,8 +4,12 @@ public class Variable1 {
 	public static void main(String[] args) {
 		int x , y ;
 		x = 50;
-		y = 8;
-		System.out.println(x + y);
-		System.out.println();
+		y = x;
+		
+		System.out.println(y );
+		x = 40;
+		
+		System.out.println(y );
+		
      }
 }
