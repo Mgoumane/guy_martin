@@ -1,0 +1,16 @@
+Les design patterns, ou patrons de conception, sont des solutions standard aux problématiques récurrentes de développement.
+
+Les mécanismes de l’IoC container rendront votre code évolutif, performant et robuste ! Vous ne serez pas simplement efficace, vous serez efficient !
+
+Springboot a été créé pour nous aider à utiliser Spring Framework. C’est un composant au service des autres composants.
+
+Les avantages de Springboot :
+- optimisation de la gestion des dépendances: Spring Boot nous fournit des starters, qui correspondent à un ensemble de dépendances homogénéisées (associations, versions). 
+- l’autoconfiguration : gestion des servlets, le chargement du contexte Spring, la connexion à la base de données
+- la gestion des propriétés : 
+- le monitoring et la gestion du programme
+- le déploiement
+
+La gestion des dépendances est simplifiée grâce aux starters qui regroupent plusieurs dépendances et homogénéisent les versions.
+Spring Boot Actuator permet de monitorer et gérer une application pendant son exécution.
+Le déploiement de l’application est facilité par la génération d’un JAR, et pour les projets web, un tomcat est embarqué.
